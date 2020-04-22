@@ -1,6 +1,6 @@
-aws_access_key = "AKIAJYKTSH72ZBGFPPFQ"
+aws_access_key = ""
 
-aws_secret_key = "Tf5M7WgV+0/vDw5yWvgYoalfvZLQ3Bc7vTH0rklJ"
+aws_secret_key = ""
 
 key_name = "name_of_existing_key_pair"
 
