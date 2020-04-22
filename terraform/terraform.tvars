@@ -1,0 +1,7 @@
+aws_access_key = "AKIAJYKTSH72ZBGFPPFQ"
+
+aws_secret_key = "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"
+
+key_name = "name_of_existing_key_pair"
+
+private_key_path = "private_key_path\private_key_file.pem"
